@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "ホシアイ",
+  "base_artist": "天月-あまつき-",
+  "createdAt": "2026-02-16T21:09:14.294330Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ホシアイ",
+      "artist": "イトヲカシ",
+      "has_synced": false,
+      "path": "select/01_ホシアイ_イトヲカシ.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ホシアイ",
+      "artist": "Amatsuki",
+      "has_synced": false,
+      "path": "select/02_ホシアイ_Amatsuki.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ホシアイ(piano arranged ver.)",
+      "artist": "rairu",
+      "has_synced": false,
+      "path": "select/03_ホシアイ(piano_arranged_ver.)_rairu.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ホシアイ",
+      "artist": "天月-あまつき-",
+      "has_synced": false,
+      "path": "select/pl_01_ホシアイ_天月-あまつき-.txt"
+    }
+  ]
+}
